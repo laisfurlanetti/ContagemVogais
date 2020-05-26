@@ -1,0 +1,7 @@
+C:\Users\Avatar\Desktop\Aulas\Exercicios string\ContagemVogais\obj\Debug\ContagemVogais.csprojAssemblyReference.cache
+C:\Users\Avatar\Desktop\Aulas\Exercicios string\ContagemVogais\obj\Debug\ContagemVogais.csproj.CoreCompileInputs.cache
+C:\Users\Avatar\Desktop\Aulas\Exercicios string\ContagemVogais\bin\Debug\ContagemVogais.exe.config
+C:\Users\Avatar\Desktop\Aulas\Exercicios string\ContagemVogais\bin\Debug\ContagemVogais.exe
+C:\Users\Avatar\Desktop\Aulas\Exercicios string\ContagemVogais\bin\Debug\ContagemVogais.pdb
+C:\Users\Avatar\Desktop\Aulas\Exercicios string\ContagemVogais\obj\Debug\ContagemVogais.exe
+C:\Users\Avatar\Desktop\Aulas\Exercicios string\ContagemVogais\obj\Debug\ContagemVogais.pdb
